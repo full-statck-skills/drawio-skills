@@ -1,0 +1,16 @@
+{
+  "name": "drawio-skills",
+  "version": "1.0.0",
+  "description": "draw.io diagram creation skills — architecture, flowcharts",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/drawio-skills",
+  "repository": "https://github.com/full-statck-skills/drawio-skills",
+  "source": "./",
+  "skills": [
+    "./skills/drawio-architecture",
+    "./skills/drawio-flowchart",
+  ]
+}
